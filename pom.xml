@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>edu.rosehulman.quota</groupId>
+    <artifactId>sample-java-project</artifactId>
+    <version>0.0.1</version>
+
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.github.Quota-Billing</groupId>
+            <artifactId>Java-SDK</artifactId>
+            <version>e337259444a71fb97c8a27a61b5ddebc25e115f1</version>
+        </dependency>
+    </dependencies>
+</project>
