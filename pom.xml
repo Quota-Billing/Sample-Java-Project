@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.github.Quota-Billing</groupId>
             <artifactId>Java-SDK</artifactId>
-            <version>e337259444a71fb97c8a27a61b5ddebc25e115f1</version>
+            <version>4993583d7013fce1c3f4667cab9df20b09dcdd0d</version>
         </dependency>
     </dependencies>
 </project>
